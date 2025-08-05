@@ -550,9 +550,9 @@ class EncryptedMessage {
 
         // Motivation text lines (exactly as requested)
         const motivationLines = [
-            "menjadi mahasiswa adalah prifilage",
-            "keistimewaan yang tak semua pemuda diberkahi kesempatan",
-            "kalian adalah bagain dari 35% anak muda seusia kalian yang bisa merasakan bangku kuliah",
+            "menjadi mahasiswa adalah privilege",
+            "keistimewaan yang tak semua anak muda diberkahi kesempatan",
+            "kalian adalah bagain dari 35% anak muda seusia kalian yang bisa merasakan bangku perkuliah",
             "itu adalah kenikmatan sekaligus tanggung jawab",
             "karna kalian adalah mahasiswa",
             "MAHA DARI SISWA",
@@ -734,3 +734,4 @@ window.addEventListener('beforeunload', () => {
     }
 
 });
+
