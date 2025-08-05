@@ -569,7 +569,7 @@ class EncryptedMessage {
             Belajarlah dengan tekun, berkarya dengan ikhlas.
             Raih prestasi setinggi-tingginya.
 
-            By Nuhgroh Ramadani
+            By Humas dan Publikasi KASTAGAMA
         `;
 
         let currentLineIndex = 0;
@@ -732,4 +732,5 @@ window.addEventListener('beforeunload', () => {
     if (encryptedMessage) {
         encryptedMessage.destroy();
     }
+
 });
